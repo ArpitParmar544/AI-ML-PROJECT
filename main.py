@@ -112,4 +112,4 @@ try:
         t = o if t == x else x
 except KeyboardInterrupt:
     print("\nexited")
-    sys.exit(0)
+    sys.exit(0
