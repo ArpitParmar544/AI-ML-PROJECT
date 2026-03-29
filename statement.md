@@ -20,7 +20,7 @@ Out of scope:
 
 ## Target Users
 
-* Beginners learning Python programming
+* Beginners learning Python 
 * Students exploring basic AI concepts
 * Developers looking for a minimalistic example of Minimax implementation
 * Anyone who wants a simple terminal-based Tic Tac Toe opponent
