@@ -25,7 +25,7 @@ This is a simple console-based Tic Tac Toe game written in Python.Despite its si
 2. Download or clone the repository:
 
    ```
-   git clone https://github.com/NotSoAbhinav/TicTacToe.git
+   git clone https://github.com/ArpitParmar544/AI-ML-PROJECT.git
    ```
 3. Navigate to the project directory:
 
