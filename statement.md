@@ -32,3 +32,4 @@ Out of scope:
 * Basic input validation (valid moves, empty positions, quit option)
 * Automatic win, loss, and draw detection
 * Beginner-style source code with minimal structural complexity
+    
