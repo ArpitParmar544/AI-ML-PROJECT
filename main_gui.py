@@ -106,4 +106,4 @@ def choose(s):
         pass
     if pl=="O":
         root.after(200,ai_turn)
-
+root.mainloop()
