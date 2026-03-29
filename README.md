@@ -53,4 +53,4 @@ This is a simple console-based Tic Tac Toe game written in Python.Despite its si
 
    * Either player wins
    * The board is full (draw)
-   * You choose to quit 
+   * You choose to quit
